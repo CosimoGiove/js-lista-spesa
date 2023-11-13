@@ -27,5 +27,6 @@ while (contatore <= ListaSpesa.length -1) {
     lista.append(elemento);
     elemento.append(ListaSpesa[contatore]);
 
+
     contatore++
 }
